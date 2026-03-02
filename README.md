@@ -178,6 +178,9 @@ streamlit run app.py --server.address 0.0.0.0
 3. **View Results**: See top prediction with confidence score
 4. **Explore**: Check top-5 predictions and model information
 
+### App Screenshots
+For examples of the Streamlit application in action, see the [app screenshots](./images/) directory showing the user interface and prediction results.
+
 ### Supported Formats
 - JPEG (.jpg, .jpeg)
 - PNG (.png)
