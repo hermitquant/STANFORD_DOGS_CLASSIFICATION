@@ -116,7 +116,6 @@ Epoch 15: Stabilized around 68-69%
 - **Backend**: PyTorch model serving
 - **Frontend**: Streamlit with custom CSS styling
 - **Image processing**: Same pipeline as training (224×224, normalized)
-- **Caching**: Efficient model loading with `@st.cache_resource`
 
 ## 🛠️ Installation & Setup
 
@@ -219,6 +218,7 @@ STANFORD_DOGS_CLASSIFICATION/
 ├── dog_breed_classifier_pretrained.pth # Trained model weights
 ├── requirements.txt                # Python dependencies
 ├── README.md                       # This file
+├── Images/                         # Application screenshots
 ├── model_design.md                 # Detailed model architecture
 └── stanford_dogs_dataset/          # Dataset directory (if downloaded)
 ```
