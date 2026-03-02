@@ -218,7 +218,7 @@ STANFORD_DOGS_CLASSIFICATION/
 ├── dog_breed_classifier_pretrained.pth # Trained model weights
 ├── requirements.txt                # Python dependencies
 ├── README.md                       # This file
-├── Images/                         # Application screenshots
+├── images/                         # Application screenshots
 ├── model_design.md                 # Detailed model architecture
 └── stanford_dogs_dataset/          # Dataset directory (if downloaded)
 ```
